@@ -29,7 +29,7 @@ Optional, nicht erforderlich:
 3. Stellen im Reiter „Stellen & Harris" ordnen und verknüpfen.
 4. Analyse mit F5 starten.
 5. Ergebnis im Reiter „Auswertung" ansehen, die Grafik im Reiter
-   „Harris (Grafik)".
+   „Harris (Grafik)". Per Rechtsklick auf Kästchen Datierungs-Beziehungen verändern.
 6. Projekt mit Strg+S sichern.
 
 ## Was das Programm leistet
